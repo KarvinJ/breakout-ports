@@ -1,2 +1,2 @@
-# sdl-breakout-ports
-Various SDL2 breakout clones for different consoles and pc. 
+# breakout-ports
+Various breakout clones for different consoles and pc. 
